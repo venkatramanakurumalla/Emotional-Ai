@@ -1,5 +1,5 @@
-# Emotional-Ai
-# Empathica AI: Emotionally Intelligent Chatbot
+
+# Empathica AI
 
 Empathica AI is an advanced, emotionally intelligent chatbot designed to simulate human-like empathy and provide supportive, context-aware responses. It goes beyond simple sentiment analysis by incorporating a sophisticated model of emotions, hormones, mood, and reinforcement learning to adapt its responses over time.
 
@@ -25,12 +25,12 @@ Empathica AI is an advanced, emotionally intelligent chatbot designed to simulat
     ```
 
 2.  **Installation:**
-    Simply download or clone the repository containing the `Pasted_Text_1758459358895.txt` file. Rename the file to something more descriptive, like `empathica_ai.py`.
+    Simply download or clone the repository containing the like `emotion_ai.py`.
 
 3.  **Running the Demo:**
     Execute the Python script to run the built-in test functions.
     ```bash
-    python empathica_ai.py
+    python emotion_ai.py
     ```
     This will run a basic test and a comprehensive stress test, showcasing the AI's capabilities across a wide range of emotional inputs.
 
